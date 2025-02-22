@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="CQRS\Customers\Commands\Responses\" />
+    <Folder Include="CQRS\Customers\Queries\Requests\" />
+    <Folder Include="CQRS\Customers\Queries\Responses\" />
+    <Folder Include="CQRS\Customers\Validator\" />
     <Folder Include="CQRS\Products\Handlers\QueryHandlers\" />
     <Folder Include="CQRS\Products\Queries\Requests\" />
     <Folder Include="CQRS\Products\Queries\Responses\" />
