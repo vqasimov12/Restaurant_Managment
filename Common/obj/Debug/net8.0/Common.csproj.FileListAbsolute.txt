@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\bin\Debug\net8.0\Common.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\Common.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Common\obj\Debug\net8.0\ref\Common.dll
