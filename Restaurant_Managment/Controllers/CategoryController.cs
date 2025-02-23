@@ -13,9 +13,7 @@ public class CategoryController(ISender sender) : ControllerBase
 
     [HttpPost]
     public async Task<IActionResult> Create(CreateCategoryRequest request)
-    {
-        return Ok(await _sender.Send(request));
-    }
+        => Ok(await _sender.Send(request));
 
     [HttpGet("{id}")]
     public async Task<IActionResult> GetById(int id)
@@ -26,14 +24,19 @@ public class CategoryController(ISender sender) : ControllerBase
 
     [HttpGet]
     public async Task<IActionResult> GetAll([FromQuery] GetAllCategoryRequest request)
-    {
-        return Ok(await _sender.Send(request));
-    }
+        => Ok(await _sender.Send(request));
 
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id)
     {
-        var request = new DeleteCategoryRequest() { Id=id};
+        var request = new DeleteCategoryRequest() { Id = id };
+        return Ok(await _sender.Send(request));
+    }
+
+    [HttpPut("{id}")]
+    public async Task<IActionResult> Update(int id, string Name)
+    {
+        var request=new UpdateCategoryRequest() { Id = id, Name = Name };
         return Ok(await _sender.Send(request));
     }
 

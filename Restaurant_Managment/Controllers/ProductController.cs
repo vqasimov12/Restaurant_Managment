@@ -1,4 +1,6 @@
-﻿using Application.CQRS.Products.Commands.Requests;
+﻿using Application.CQRS.Categories.Queries.Requests;
+using Application.CQRS.Products.Commands.Requests;
+using Application.CQRS.Products.Queries.Requests;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,5 +18,9 @@ public class ProductController(ISender sender) : ControllerBase
         return Ok(await _sender.Send(request));
     }
 
+
+    [HttpGet]
+    public async Task<IActionResult> GetAll([FromQuery] GetAllProductsRequest request)
+        => Ok(await _sender.Send(request));
 
 }
