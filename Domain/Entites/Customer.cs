@@ -8,5 +8,5 @@ public class Customer:BaseEntity
     public string Email { get; set; }
     public string Phone { get; set; }
     public string Address { get; set; }
-    public string SurName { get; set; }
+    public string Surname { get; set; }
 }

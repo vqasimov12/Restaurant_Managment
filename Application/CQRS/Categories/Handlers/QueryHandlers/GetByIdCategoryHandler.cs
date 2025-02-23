@@ -1,5 +1,6 @@
 ﻿using Application.CQRS.Categories.Queries.Requests;
 using Application.CQRS.Categories.Queries.Responses;
+using Common.Exceptions;
 using Common.GlobalResopnses.Generics;
 using Domain.Entites;
 using MediatR;
@@ -16,14 +17,7 @@ public class GetByIdCategoryHandler(IUnitOfWork unitOfWork) : IRequestHandler<Ge
         Category currentCategory = await _unitOfWork.CategoryRepository.GetByIdAsync(request.Id);
 
         if (currentCategory == null)
-        {
-            return new ResponseModel<GetByIdCategoryResponse>
-            {
-                Data = null,
-                Errors = ["The Category does not exist with provided id"],
-                IsSuccess = false
-            };
-        }
+            throw new BadRequestException("The Category does not exist with provided id");
 
         GetByIdCategoryResponse response = new()
         {

@@ -1,5 +1,6 @@
 ﻿using Application.CQRS.Categories.Commands.Requests;
 using Application.CQRS.Categories.Commands.Responses;
+using Application.CQRS.Customers.Queries.Responses;
 using Application.CQRS.Products.Commands.Requests;
 using Application.CQRS.Products.Commands.Responses;
 using Application.CQRS.Products.Queries.Responses;
@@ -21,11 +22,15 @@ public class MappingProfile : Profile
         CreateMap<Product, CreateProductRequest>().ReverseMap();
         CreateMap<CreateProductResponse, Product>().ReverseMap();
         CreateMap<Product, GetAllProductsResponse>().ReverseMap();
-
+        CreateMap<Product, GetProductByIdResponse>().ReverseMap();
+        CreateMap<UpdateProductRequest, Product>().ReverseMap();
+        CreateMap<Product, UpdateProductResponse>().ReverseMap();
 
         CreateMap<Category, CreateCategoryRequest>().ReverseMap();
         CreateMap<CreateCategoryResponse, Category>().ReverseMap();
         CreateMap<UpdateCategoryRequest, Category>().ReverseMap();
         CreateMap<Category, UpdateCategoryResponse>().ReverseMap();
+
+        CreateMap<Customer, GetAllCustomersResponse>().ReverseMap();
     }
 }

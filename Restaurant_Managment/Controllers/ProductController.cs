@@ -23,4 +23,18 @@ public class ProductController(ISender sender) : ControllerBase
     public async Task<IActionResult> GetAll([FromQuery] GetAllProductsRequest request)
         => Ok(await _sender.Send(request));
 
+
+    [HttpGet("{id}")]
+    public async Task<IActionResult> Get(int id)
+        => Ok(await _sender.Send(new GetProductByIdRequest { Id = id }));
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> Delete(int id)
+        => Ok(await _sender.Send(new DeleteProductRequest { Id = id }));
+
+    [HttpPut]
+    public async Task<IActionResult> Update([FromBody] UpdateProductRequest request)
+    {
+        return Ok(await _sender.Send(request));
+    }
 }

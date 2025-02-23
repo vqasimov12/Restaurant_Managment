@@ -16,9 +16,7 @@ public class DeleteCategoryHandler(IUnitOfWork unitOfWork) : IRequestHandler<Del
         bool isTrue = await _unitOfWork.CategoryRepository.Remove(request.Id,0);
 
         if (!isTrue)
-        {
             throw new NotFoundException(typeof(Category) , request.Id);
-        }
 
         return new ResponseModel<DeleteCategoryResponse>
         {
