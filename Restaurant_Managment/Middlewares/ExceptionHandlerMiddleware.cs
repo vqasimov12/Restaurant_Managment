@@ -1,5 +1,6 @@
 ﻿using Common.Exceptions;
 using Common.GlobalResopnses;
+using FluentValidation;
 using System.Net;
 using System.Text.Json;
 
@@ -29,6 +30,10 @@ public class ExceptionHandlerMiddleware(RequestDelegate next)
                     message = new List<string>() { error.Message };
                     await WriteError(context, HttpStatusCode.NotFound, message);
                     break;
+                case ValidationException ex:
+                    await WriteValidationErrors(context, HttpStatusCode.BadRequest, ex);
+
+                    break;
 
                 default:
                     message = new List<string>() { error.Message };
@@ -47,4 +52,17 @@ public class ExceptionHandlerMiddleware(RequestDelegate next)
         var json = JsonSerializer.Serialize(new ResponseModel(messages));
         await context.Response.WriteAsync(json);
     }
+
+    static async Task WriteValidationErrors(HttpContext context,HttpStatusCode statusCode,ValidationException exception)
+    {
+
+        context.Response.Clear();
+        context.Response.StatusCode = (int)statusCode;
+        context.Response.ContentType = "application/json";
+
+        var validationErrors = exception.Errors.Select(x => new { field = x.PropertyName, message = x.ErrorMessage });
+        var json = JsonSerializer.Serialize(new { errors=validationErrors});
+        await context.Response.WriteAsync(json);
+    }
+
 }

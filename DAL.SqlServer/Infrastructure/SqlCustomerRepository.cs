@@ -9,23 +9,24 @@ public class SqlCustomerRepository(string connectionString, AppDbContext context
 {
     public async Task AddAsync(Customer customer)
     {
-        var sql = "INSERT INTO Customers(Name,Email,Phone,Address,Surname) VALUES(@Name,@Email,@Phone,@Address,@Surname); SELECT SCOPE_IDENTITY()";
+        var sql = @"INSERT INTO Customers([Name],[Email],[Phone],[Address],[Surname]) 
+                    VALUES(@Name,@Email,@Phone,@Address,@Surname); SELECT SCOPE_IDENTITY()";
 
         using var conn = OpenConnection();
         var generatedId = await conn.ExecuteScalarAsync<int>(sql, customer);
         customer.Id = generatedId;
-
     }
 
-    public IQueryable<Customer> GetAll() =>
-        context.Customers.OrderByDescending(c => c.CreatedDate).Where(c => c.IsDeleted == false);
 
-    public Task<Customer> GetByIdAsync(int id)
+    public IQueryable<Customer> GetAll() =>
+        context.Customers.Where(c => c.IsDeleted == false).OrderByDescending(c => c.CreatedDate);
+
+    public async Task<Customer> GetByIdAsync(int id)
     {
         var sql = "SELECT * FROM Customers WHERE Id=@id AND IsDeleted=0";
 
         using var conn = OpenConnection();
-        return conn.QueryFirstOrDefaultAsync<Customer>(sql, new { id });
+        return await conn.QueryFirstOrDefaultAsync<Customer>(sql, new { id });
     }
 
     public Task<IEnumerable<Customer>> GetByNameAsync(string name)
@@ -60,7 +61,7 @@ public class SqlCustomerRepository(string connectionString, AppDbContext context
 
     }
 
-    public Task Update(Customer customer)
+    public async Task Update(Customer customer)
     {
         var sql = @"UPDATE Customers
                     SET Name = @Name,
@@ -70,6 +71,6 @@ public class SqlCustomerRepository(string connectionString, AppDbContext context
                     Surname = @Surname
                     WHERE Id = @Id";
         using var conn = OpenConnection();
-        return conn.ExecuteAsync(sql, customer);
+        await conn.ExecuteAsync(sql, customer);
     }
 }

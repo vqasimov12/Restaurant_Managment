@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\cqrs\\customers\\handlers\\commandhandlers\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\customers\\handlers\\commandhandlers\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\dal.sqlserver\\infrastructure\\sqlcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\infrastructure\\sqlcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\cqrs\\products\\handlers\\commandhandlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\products\\handlers\\commandhandlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\cqrs\\customers\\commands\\responses\\createcustomerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\customers\\commands\\responses\\createcustomerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\cqrs\\customers\\commands\\requests\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\customers\\commands\\requests\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\restaurant_managment\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|solutionrelative:restaurant_managment\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\dal.sqlserver\\infrastructure\\sqlcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\infrastructure\\sqlcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\restaurant_managment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|solutionrelative:restaurant_managment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\cqrs\\customers\\handlers\\commandhandlers\\updatecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\customers\\handlers\\commandhandlers\\updatecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\restaurant_managment\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|solutionrelative:restaurant_managment\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\cqrs\\customers\\commands\\requests\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\customers\\commands\\requests\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\restaurant_managment_project\\application\\cqrs\\customers\\commands\\responses\\updatecustomerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\customers\\commands\\responses\\updatecustomerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 265,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\DAL.SqlServer\\Infrastructure\\SqlCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Infrastructure\\SqlCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\DAL.SqlServer\\Infrastructure\\SqlCategoryRepository.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Infrastructure\\SqlCategoryRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:52:43.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\DAL.SqlServer\\Infrastructure\\SqlCustomerRepository.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Infrastructure\\SqlCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\DAL.SqlServer\\Infrastructure\\SqlCustomerRepository.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Infrastructure\\SqlCustomerRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:51:38.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:49:47.543Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -50,80 +89,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Products\\Handlers\\CommandHandlers\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Application\\CQRS\\Products\\Handlers\\CommandHandlers\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Products\\Handlers\\CommandHandlers\\CreateProductHandler.cs",
-              "RelativeToolTip": "Application\\CQRS\\Products\\Handlers\\CommandHandlers\\CreateProductHandler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:33:22.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateCustomerHandler.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\CreateCustomerHandler.cs",
-              "RelativeDocumentMoniker": "Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\CreateCustomerHandler.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\CreateCustomerHandler.cs",
-              "RelativeToolTip": "Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\CreateCustomerHandler.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:31:29.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateCustomerResponse.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Responses\\CreateCustomerResponse.cs",
-              "RelativeDocumentMoniker": "Application\\CQRS\\Customers\\Commands\\Responses\\CreateCustomerResponse.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Responses\\CreateCustomerResponse.cs",
-              "RelativeToolTip": "Application\\CQRS\\Customers\\Commands\\Responses\\CreateCustomerResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:28:56.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateCustomerRequest.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Requests\\CreateCustomerRequest.cs",
-              "RelativeDocumentMoniker": "Application\\CQRS\\Customers\\Commands\\Requests\\CreateCustomerRequest.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Requests\\CreateCustomerRequest.cs",
-              "RelativeToolTip": "Application\\CQRS\\Customers\\Commands\\Requests\\CreateCustomerRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Title": "UpdateCustomerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\UpdateCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\UpdateCustomerHandler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\UpdateCustomerHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Customers\\Handlers\\CommandHandlers\\UpdateCustomerHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:28:11.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\AutoMapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Application\\AutoMapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\AutoMapper\\MappingProfile.cs",
-              "RelativeToolTip": "Application\\AutoMapper\\MappingProfile.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:25:55.965Z",
+              "WhenOpened": "2025-02-24T13:26:34.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Restaurant_Managment\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Restaurant_Managment\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Restaurant_Managment\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Restaurant_Managment\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UpdateCustomerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Responses\\UpdateCustomerResponse.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Customers\\Commands\\Responses\\UpdateCustomerResponse.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Responses\\UpdateCustomerResponse.cs",
+              "RelativeToolTip": "Application\\CQRS\\Customers\\Commands\\Responses\\UpdateCustomerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:13:51.515Z",
+              "WhenOpened": "2025-02-24T13:22:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Requests\\UpdateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Customers\\Commands\\Requests\\UpdateCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Application\\CQRS\\Customers\\Commands\\Requests\\UpdateCustomerRequest.cs",
+              "RelativeToolTip": "Application\\CQRS\\Customers\\Commands\\Requests\\UpdateCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:21:50.804Z",
               "EditorCaption": ""
             },
             {
@@ -134,9 +134,9 @@
               "RelativeDocumentMoniker": "Restaurant_Managment\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\Restaurant_Managment_Project\\Restaurant_Managment\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Restaurant_Managment\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:13:23.405Z",
+              "WhenOpened": "2025-02-24T13:10:13.903Z",
               "EditorCaption": ""
             }
           ]

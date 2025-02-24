@@ -53,6 +53,7 @@ CREATE TABLE [dbo].[Products] (
 GO
 
 CREATE TABLE [dbo].[Customers](
+    [Id]          INT           IDENTITY (1,1) PRIMARY KEY,
     [Name]        NVARCHAR(25)  NOT NULL,
     [Surname]     NVARCHAR(25)  NOT NULL,
     [Email]       NVARCHAR(50)  NOT NULL,

@@ -2,6 +2,7 @@
 using Application.CQRS.Customers.Commands.Responses;
 using AutoMapper;
 using Common.GlobalResopnses.Generics;
+using Domain.Entites;
 using FluentValidation;
 using MediatR;
 using Repository.Common;
@@ -14,8 +15,16 @@ public class CreateCustomerHandler(IUnitOfWork unitOfWork, IMapper mapper, IVali
     private readonly IMapper _mapper = mapper;
     private readonly IValidator<CreateCustomerRequest> _validator = validator;
 
-    public Task<ResponseModel<CreateCustomerResponse>> Handle(CreateCustomerRequest request, CancellationToken cancellationToken)
+    public async Task<ResponseModel<CreateCustomerResponse>> Handle(CreateCustomerRequest request, CancellationToken cancellationToken)
     {
-        throw new NotImplementedException();
+        var customer = _mapper.Map<Customer>(request);
+        await _unitOfWork.CustomerRepository.AddAsync(customer);
+
+        return new ResponseModel<CreateCustomerResponse>
+        {
+            Data = _mapper.Map<CreateCustomerResponse>(customer),
+            Errors = [],
+            IsSuccess = true
+        };
     }
 }
