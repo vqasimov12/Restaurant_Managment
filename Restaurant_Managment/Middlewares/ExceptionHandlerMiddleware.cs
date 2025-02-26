@@ -32,7 +32,10 @@ public class ExceptionHandlerMiddleware(RequestDelegate next)
                     break;
                 case ValidationException ex:
                     await WriteValidationErrors(context, HttpStatusCode.BadRequest, ex);
-
+                    break;
+                case ToManyRequestException:
+                    message = new List<string>() { error.Message };
+                    await WriteError(context,HttpStatusCode.TooManyRequests, message);
                     break;
 
                 default:
@@ -53,7 +56,7 @@ public class ExceptionHandlerMiddleware(RequestDelegate next)
         await context.Response.WriteAsync(json);
     }
 
-    static async Task WriteValidationErrors(HttpContext context,HttpStatusCode statusCode,ValidationException exception)
+    static async Task WriteValidationErrors(HttpContext context, HttpStatusCode statusCode, ValidationException exception)
     {
 
         context.Response.Clear();
@@ -61,7 +64,7 @@ public class ExceptionHandlerMiddleware(RequestDelegate next)
         context.Response.ContentType = "application/json";
 
         var validationErrors = exception.Errors.Select(x => new { field = x.PropertyName, message = x.ErrorMessage });
-        var json = JsonSerializer.Serialize(new { errors=validationErrors});
+        var json = JsonSerializer.Serialize(new { errors = validationErrors });
         await context.Response.WriteAsync(json);
     }
 
