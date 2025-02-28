@@ -1,0 +1,24 @@
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Domain\obj\Debug\net8.0\ref\Domain.dll

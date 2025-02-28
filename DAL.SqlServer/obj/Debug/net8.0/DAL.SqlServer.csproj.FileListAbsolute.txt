@@ -1,0 +1,36 @@
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.AssemblyInfo.cs
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.sourcelink.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.deps.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\bin\Debug\net8.0\Domain.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\bin\Debug\net8.0\Repository.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\bin\Debug\net8.0\Domain.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\bin\Debug\net8.0\Repository.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlS.70542844.Up2Date
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\refint\DAL.SqlServer.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\New folder\Restaurant_Managment_Project\DAL.SqlServer\obj\Debug\net8.0\ref\DAL.SqlServer.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.deps.json
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\bin\Debug\net8.0\Domain.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\bin\Debug\net8.0\Repository.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\bin\Debug\net8.0\Domain.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\bin\Debug\net8.0\Repository.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.AssemblyInfo.cs
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.sourcelink.json
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlS.70542844.Up2Date
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\refint\DAL.SqlServer.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\DAL.SqlServer\obj\Debug\net8.0\ref\DAL.SqlServer.dll
